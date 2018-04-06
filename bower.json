@@ -3,14 +3,14 @@
   "description": "imooc video demo",
   "main": "",
   "authors": [
-    "williamjing <william_jing@qq.com>"
+    "williamjing <244181866@qq.com>"
   ],
   "license": "MIT",
   "keywords": [
     "imooc",
     "video"
   ],
-  "homepage": "https://github.com/fattypiggy/imooc_video",
+  "homepage": "https://github.com/wengyulin/node_video.git",
   "ignore": [
     "**/.*",
     "node_modules",
